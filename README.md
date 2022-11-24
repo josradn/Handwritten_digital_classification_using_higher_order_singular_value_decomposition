@@ -1,0 +1,2 @@
+# Handwritten_digital_classification_using_higher_order_singular_value_decomposition
+Seminar na kolegiju Uvod u složeno pretraživanje
